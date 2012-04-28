@@ -671,7 +671,13 @@
          y="803.42389"
          id="tspan8061"><tspan
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-   id="tspan8063">implizit bei</tspan> pull</tspan></text>
+   id="tspan8063">implizit bei </tspan>pull, </tspan><tspan
+         sodipodi:role="line"
+         x="47.308838"
+         y="822.00623"
+         id="tspan3207"><tspan
+   style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+   id="tspan3209">implizit bei </tspan>clone</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
